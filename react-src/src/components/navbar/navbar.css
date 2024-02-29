@@ -1,0 +1,8 @@
+#navbar {
+    min-height: calc(10vh - 22px);
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border-bottom: 3px solid rgb(80,172,231);
+    z-index: 10;
+}

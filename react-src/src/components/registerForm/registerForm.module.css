@@ -1,0 +1,25 @@
+.registerAccount {
+    margin: 0 20px 0 0 !important;
+    background-color: rgb(80,172,231) !important;
+    border-color: rgb(80,172,231) !important;
+}
+
+.registerAccount:hover {
+    background-color: white !important;
+    color: rgb(80,172,231) !important;
+}
+
+.loginButton {
+    background-color: white !important;
+    border-color: rgb(80,172,231) !important;
+    color: rgb(80,172,231) !important;
+}
+
+.loginButton:hover {
+    background-color: rgb(80,172,231) !important;
+    color: white !important;
+}
+
+.blueText {
+    color: rgb(80,172,231);
+}

@@ -1,0 +1,25 @@
+.roomContainer {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.roomContainer h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.rightRoom {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+
+.rightRoom p {
+    width: 40%;
+    font-size: 15pt;
+}
+
+.rightRoom img {
+    width: 30%;
+}

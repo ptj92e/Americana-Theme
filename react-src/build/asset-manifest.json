@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/americana/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/americana/static/js/main.chunk.js",
+    "main.js.map": "/wp-content/themes/americana/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/americana/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/americana/static/js/bundle.js.map",
+    "static/css/2.chunk.css": "/wp-content/themes/americana/static/css/2.chunk.css",
+    "static/js/2.chunk.js": "/wp-content/themes/americana/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/americana/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/americana/index.php",
+    "precache-manifest.9e75ec4c8ef1a5462c6211e2c946bb5f.js": "/wp-content/themes/americana/precache-manifest.9e75ec4c8ef1a5462c6211e2c946bb5f.js",
+    "service-worker.js": "/wp-content/themes/americana/service-worker.js",
+    "static/css/2.chunk.css.map": "/wp-content/themes/americana/static/css/2.chunk.css.map",
+    "static/css/main.chunk.css.map": "/wp-content/themes/americana/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "/wp-content/themes/americana/static/js/2.chunk.js.LICENSE.txt",
+    "static/media/Fireworks.cc6fdb93.jpeg": "/wp-content/themes/americana/static/media/Fireworks.cc6fdb93.jpeg",
+    "static/media/Lake_Road.867b3537.jpeg": "/wp-content/themes/americana/static/media/Lake_Road.867b3537.jpeg",
+    "static/media/Lake_Sunset.5218eb4c.jpeg": "/wp-content/themes/americana/static/media/Lake_Sunset.5218eb4c.jpeg",
+    "static/media/Lake_Tahoe.96445d18.jpeg": "/wp-content/themes/americana/static/media/Lake_Tahoe.96445d18.jpeg",
+    "static/media/North_Lake_Tahoe.da8158d1.jpeg": "/wp-content/themes/americana/static/media/North_Lake_Tahoe.da8158d1.jpeg",
+    "static/media/Skiing.c4df070d.jpeg": "/wp-content/themes/americana/static/media/Skiing.c4df070d.jpeg",
+    "static/media/americana_nav_logo.ae1a6aa5.png": "/wp-content/themes/americana/static/media/americana_nav_logo.ae1a6aa5.png"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/css/2.chunk.css",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
